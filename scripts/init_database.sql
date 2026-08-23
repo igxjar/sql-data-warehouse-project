@@ -9,7 +9,7 @@ BEGIN
 END;
 GO
   
-CREATE DATABASE DataWarehouseProject;
+CREATE DATABASE DataWarehouse;
 GO
 
 USE DataWarehouse;
